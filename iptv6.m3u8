@@ -152,3 +152,7 @@ http://ceshi.huanqiuzhibo.cn/accv.php?id=eltasport1_twn
 http://ceshi.huanqiuzhibo.cn/accv.php?id=eltasport2_twn
 #EXTINF:-1 group-title="体育频道",爱尔达体育3
 http://ceshi.huanqiuzhibo.cn/accv.php?id=eltasport3_twn
+#EXTINF:-1 group-title="体育频道",EdgeSport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="体育频道",广东体育 
+http://113.100.72.131:8899/udp/239.77.0.112:5146
