@@ -180,3 +180,5 @@ http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/ind
 http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230987/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="体育频道",咪咕V6测试2
 http://[2409:8087:7001:20:1000::82]:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-YC.png" group-title="英超全球线路",埃弗顿VS布莱顿(23:00)
+https://livednow.com/iqiyi/live/6195628195797823?id=free&token=free
