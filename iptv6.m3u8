@@ -168,9 +168,15 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="体育频道",纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://9sv2.mine.nu/sat/tv721
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="NewTV系列",超级体育
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级体育.png" group-title="体育频道",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="数字",五星体育
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育频道",五星体育
 https://cntv.lat/tv?auth=202311030915&id=wxty
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="数字",劲爆体育
+#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育频道",劲爆体育
 https://cntv.lat/tv?auth=202311030915&id=jbty
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="体育频道",咪咕测试线路1
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226143/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="体育频道",咪咕V6测试1
+http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230987/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/mg-zb2.png" group-title="体育频道",咪咕V6测试2
+http://[2409:8087:7001:20:1000::82]:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
