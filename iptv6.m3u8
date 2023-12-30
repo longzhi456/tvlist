@@ -125,18 +125,34 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" tvg-id="6139" tvg-name="ChannelNewsAsia" group-title="港澳台",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台",东森新闻美洲台
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" tvg-id="6057" tvg-name="中天娱乐台" group-title="港澳台",中天娱乐台
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" tvg-id="6054" tvg-name="中天综合台" group-title="港澳台",中天综合台
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?tid=MBBB1520797915207979&ct=19193&tsum=3a6f7f0c591c2ec6678d51b741f290b2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" tvg-id="6047" tvg-name="三立台湾台" group-title="港澳台",三立台湾台
+http://50.7.238.114:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" tvg-id="6048" tvg-name="三立都会台" group-title="港澳台",三立都会台
+http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" tvg-id="6069" tvg-name="东森新闻台" group-title="港澳台",东森新闻台
+http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" tvg-id="6045" tvg-name="八大第一台" group-title="港澳台",八大第一台
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" tvg-id="6046" tvg-name="八大综合台" group-title="港澳台",八大综合台
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" tvg-id="7134" tvg-name="民视台湾台" group-title="港澳台",民视台湾台
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+
 
 #EXTINF:-1 group-title="国际",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="国际",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 group-title="国际",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="国际",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="影视",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
