@@ -1,41 +1,7 @@
 香港,#genre#
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-翡翠台,mitv://generationnexxxt.com:18806/81e48719bfd548e0905f7e3f49ea4e87
-港台电视31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb
-HKC体育台,mitv://generationnexxxt.com:18806/461ee4186df44a99a3ab3fee3211476b
-TVB经典台,mitv://generationnexxxt.com:18806/a5ad5a71a1c24217874399944b878297
-TVB星河(粤),mitv://generationnexxxt.com:18806/8b06441380d4455e9a20f49ce633928a
-TVB娱乐新闻台,mitv://generationnexxxt.com:18806/433c9c6631bd420eba4493408f34f9f3
-功夫台,mitv://generationnexxxt.com:18806/5a979a6d70d64348b5ea30086d9d67bf
-J2,mitv://generationnexxxt.com:18806/2b3d41193b4e4d18a8f6bdf0b60f89b6
-无线财经,mitv://generationnexxxt.com:18806/8b8d407235cd4f5ca626529250cf22e2
-无线新闻,mitv://generationnexxxt.com:18806/c72a0a3b723c425ba7c4726992cbc085
-无线新闻,mitv://generationnexxxt.com:18806/8bd37511cf274918a788663136285f34
-18台,mitv://generationnexxxt.com:18806/d8d088c862594126900e2cad876c5c3b
-Hands Up,mitv://generationnexxxt.com:18806/a76febc86d9a4584a58886b4c287687b
-HKC 18,mitv://generationnexxxt.com:18806/9ff0ac8fb52449e98fd6c694884b26e4
-HKC Sports Plus 1,mitv://generationnexxxt.com:18806/6a8f5ea55edd44afa3baa702ede6b34d
-HKC电影台,mitv://generationnexxxt.com:18806/43376752371048dfba9d6de7029fabf2
-HKC体育台,mitv://generationnexxxt.com:18806/461ee4186df44a99a3ab3fee3211476b
-有线新闻台,mitv://generationnexxxt.com:18806/4738c8dc857543689fbb4e082714660a
-HKC综合娱乐台,mitv://generationnexxxt.com:18806/6266fd830bda46bf8ecc80141d70b4e4
-有线财经资讯台,mitv://generationnexxxt.com:18806/c542a77d03354039a46fd782d4d9b4c9
-香港603,mitv://generationnexxxt.com:18806/ad874ccb108b4c58aa5659f4a6d84abc
-粤语片台,mitv://generationnexxxt.com:18806/516c61df97a743f9974faeb1ecba9e47
-直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8
-ViuTV,mitv://generationnexxxt.com:18806/3c463fc225e84f4e9be021f17128407e
-ViuTVsix,mitv://generationnexxxt.com:18806/d14f9575a1b8404ca2a57f912c2de736
-now新闻台,mitv://generationnexxxt.com:18806/98bdab6342574a8b9cf1ae847f934ecb
-now直播台,mitv://generationnexxxt.com:18806/026bf3fe3928432c8359514d968c66f8
-港台电视31,mitv://generationnexxxt.com:18806/67a0fe4459e04784b53f29a446e061bb
-Thrill,mitv://generationnexxxt.com:18806/6f8597d7488b4758bc6a100e319090cd
-美亚电影台(粤语),mitv://generationnexxxt.com:18806/63aff98d000a53d4c93b529f75d663a6
-亚洲剧台,mitv://generationnexxxt.com:18806/2fe038292af2427db67e14d053f3c9cf
-阳光卫视,mitv://generationnexxxt.com:18806/6a336643d5844db9932c85b73202bd26
-星空卫视,mitv://generationnexxxt.com:18806/5980877dd54349b7be2def5781d8908d
-澳门-MACAU,mitv://generationnexxxt.com:18806/1499e4367b914238850b4cbc23d416c3
-澳门莲花,mitv://generationnexxxt.com:18806/6ddacfaf37c747f4b20c6a6a385f33e3
+
 台湾,#genre#
 超视,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
 HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
