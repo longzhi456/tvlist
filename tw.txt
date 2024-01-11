@@ -133,4 +133,3 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-韩国娱乐台KMTV,mitv://generationnexxxt.com:18806/cc8f3c7125a44f85b401d77aad1df2f1
