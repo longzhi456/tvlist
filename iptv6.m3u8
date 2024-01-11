@@ -122,19 +122,19 @@ http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳台",明珠台
 http://headscale.wisdomitc.com:9981/stream/channelid/1442314365?profile=pass
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" tvg-id="133" tvg-name="无线财经" group-title="港澳台",无线财经体育资讯台
-http://bziyunshao.synology.me:8890/bysid/8
+http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 group-title="港澳台",TVB星河台
 http://113.117.74.99:8081/hls/135/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳台",J2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 group-title="港澳台",HOY国际财经台
-http://headscale.wisdomitc.com:9981/stream/channelid/158862790?profile=pass
+http://bziyunshao.synology.me:8890/bysid/77
 #EXTINF:-1 group-title="港澳台",HOY TV
-http://headscale.wisdomitc.com:9981/stream/channelid/248468139?profile=pass
+http://bziyunshao.synology.me:8890/bysid/78
 #EXTINF:-1 group-title="港澳台",RTHK31
-http://headscale.wisdomitc.com:9981/stream/channelid/1452314939?profile=pass
+http://bziyunshao.synology.me:8890/bysid/31
 #EXTINF:-1 group-title="港澳台",RTHK32
-http://headscale.wisdomitc.com:9981/stream/channelid/861105239?profile=pass
+http://bziyunshao.synology.me:8890/bysid/32
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳台",Viu TV
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 tvg-name="ViuTV SIX" group-title="港澳台",Viu TV SIX
@@ -143,6 +143,8 @@ http://bziyunshao.synology.me:8889/bysid/96
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港澳台",星空卫视
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
+#EXTINF:-1 group-title="港澳台",香港國際財經台
+http://bziyunshao.synology.me:8891/bysid/76
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" tvg-id="6143" tvg-name="台视新闻台" group-title="港澳台",台视新闻台
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
