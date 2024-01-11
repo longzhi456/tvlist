@@ -1,4 +1,4 @@
-香港,#genre#  
+香港,#genre#
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 翡翠台,mitv://generationnexxxt.com:18806/81e48719bfd548e0905f7e3f49ea4e87
@@ -36,7 +36,6 @@ Thrill,mitv://generationnexxxt.com:18806/6f8597d7488b4758bc6a100e319090cd
 星空卫视,mitv://generationnexxxt.com:18806/5980877dd54349b7be2def5781d8908d
 澳门-MACAU,mitv://generationnexxxt.com:18806/1499e4367b914238850b4cbc23d416c3
 澳门莲花,mitv://generationnexxxt.com:18806/6ddacfaf37c747f4b20c6a6a385f33e3
-
 台湾,#genre#
 TVBS,mitv://generationnexxxt.com:18806/d48d5b6fce4c4f2eac4ea24fb996c3c3
 TVBS欢乐台,mitv://generationnexxxt.com:18806/f8a04092722042dcb45885c69d1443d5
@@ -171,7 +170,6 @@ Animax,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
 龙华偶像,mitv://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
-
 公视3台,mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
 ELTV生活英语台,mitv://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
 靖洋卡通Nice Bingo,mitv://generationnexxxt.com:19806/1279fb2d1ae14676a31b2e5b38a2cd57
@@ -272,16 +270,14 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 东森新闻台(备),mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
-
-国际,#genre#  
+国际,#genre#
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 韩国娱乐台KMTV,mitv://generationnexxxt.com:18806/cc8f3c7125a44f85b401d77aad1df2f1
-
-体育,#genre# 
+体育,#genre#
 美红牛,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://9sv2.mine.nu/sat/tv721
 劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
