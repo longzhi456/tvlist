@@ -168,8 +168,3 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 韩国娱乐台KMTV,mitv://generationnexxxt.com:18806/cc8f3c7125a44f85b401d77aad1df2f1
-体育,#genre#
-美红牛,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://9sv2.mine.nu/sat/tv721
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-广东体育,mitv://generationnexxxt.com:19806/e9e2075a549c4f98802b4c029614289d
