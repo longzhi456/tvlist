@@ -33,7 +33,6 @@ Hands Up,mitv://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 功夫台,mitv://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
 HOY资讯台,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-
 台湾,#genre#
 超视,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
 HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
