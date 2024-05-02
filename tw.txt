@@ -1,8 +1,4 @@
 香港,#genre#
-凤凰电影,mitv://generationnexxxt.com:18806/3ec15219e30c4284af6c26e33921be71
-凤凰香港,mitv://generationnexxxt.com:18806/140c134aa8944a6fb021c86f184a7ce5
-凤凰中文,mitv://generationnexxxt.com:18806/ae7f34836bd14f9aa949e884e70bd901
-凤凰资讯,mitv://generationnexxxt.com:18806/b4a94477b556404088328e7ebb5d7061
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 TVB无线财经资讯,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
