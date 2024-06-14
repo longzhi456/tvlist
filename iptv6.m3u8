@@ -134,46 +134,6 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 http://113.64.145.61:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="港澳台",民視台灣台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv001
-#EXTINF:-1 group-title="港澳台",民視第一台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv003
-#EXTINF:-1 group-title="港澳台",民視綜藝台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv004
-#EXTINF:-1 group-title="港澳台",豬哥亮歌廳秀
-http://wanjiatv.net/litv.php?id=4gtv-4gtv006
-#EXTINF:-1 group-title="港澳台",中天新聞台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv009
-#EXTINF:-1 group-title="港澳台",非凡新聞台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv010
-#EXTINF:-1 group-title="港澳台",影迷數位電影台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv011
-#EXTINF:-1 group-title="港澳台",視納華仁紀實頻道
-http://wanjiatv.net/litv.php?id=4gtv-4gtv013
-#EXTINF:-1 group-title="港澳台",時尚運動X
-http://wanjiatv.net/litv.php?id=4gtv-4gtv014
-#EXTINF:-1 group-title="港澳台",達文西頻道
-http://wanjiatv.net/litv.php?id=4gtv-4gtv018
-#EXTINF:-1 group-title="港澳台",八大精彩台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv034
-#EXTINF:-1 group-title="港澳台",八大綜藝台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv039
-#EXTINF:-1 group-title="港澳台",中視
-http://wanjiatv.net/litv.php?id=4gtv-4gtv040
-#EXTINF:-1 group-title="港澳台",華視
-http://wanjiatv.net/litv.php?id=4gtv-4gtv041
-#EXTINF:-1 group-title="港澳台",公視戲劇
-http://wanjiatv.net/litv.php?id=4gtv-4gtv042
-#EXTINF:-1 group-title="港澳台",客家電視台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv043
-#EXTINF:-1 group-title="港澳台",靖天卡通台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv044
-#EXTINF:-1 group-title="港澳台",靖洋戲劇台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv045
-#EXTINF:-1 group-title="港澳台",靖天綜合台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv046
-#EXTINF:-1 group-title="港澳台",靖天日本台
-http://wanjiatv.net/litv.php?id=4gtv-4gtv047
 
 #EXTINF:-1 group-title="国际",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
