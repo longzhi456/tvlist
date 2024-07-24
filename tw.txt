@@ -202,8 +202,6 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 test,#genre#
-民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
-BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
-民视,mitv://generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
-台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
-Lifetime,mitv://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
+三立都會台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+三立都會台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
+三立都會台,P2p://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
