@@ -202,6 +202,12 @@ Music Japan TV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e07
 日テレNEWS 24,mitv://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,mitv://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 test,#genre#
-三立都會台,http://211.72.65.236:8550/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-三立都會台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
-三立都會台,P2p://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
+TVBS欢乐台,mitv://generationnexxxt.com:19806/a821cda61eec4693bceec6cb79d88a34
+TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+TVBS,mitv://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae
+TVBS精采台,mitv://generationnexxxt.com:19806/8f1da99629564b52ba7ebf7621218671
+TVBS亚洲,mitv://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
+中天新闻台,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
+中天娱乐台,mitv://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4
+中天综合台,mitv://generationnexxxt.com:19806/59eea32b3a2d49019c32b066bbbb92d0
+中视,mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
