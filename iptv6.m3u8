@@ -39,6 +39,13 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#http://103.95.24.37:880/fhws.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
+http://113.64.145.61:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -128,201 +135,6 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="卫视频道",CGTN记录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#http://103.95.24.37:880/fhws.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港澳台",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
-http://113.64.145.61:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="TVB翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="港澳台",TVB翡翠台
-http://61.238.177.254:30261/stream/channelid/1548166379
-#EXTINF:-1 tvg-id="TVB明珠台" tvg-name="TVB明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="港澳台",TVB明珠台
-http://61.238.177.254:30261/stream/channelid/1310877729
-#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="港澳台",TVBPlus
-http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台",TVBS新闻
-http://extraott.com:80/live/7921751389/6097373662/5499.m3u8
-#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐.png" group-title="港澳台",TVBS欢乐
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8532/.m3u8
-#EXTINF:-1 tvg-id="TVBS NEWS" tvg-name="TVBS NEWS" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="港澳台",TVBS NEWS
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" group-title="港澳台",台视新闻
-http://extraott.com:80/live/7921751389/6097373662/5501.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" group-title="港澳台",民视新闻
-http://extraott.com:80/live/7921751389/6097373662/5530.m3u8
-#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" group-title="港澳台",民视台湾台
-http://extraott.com:80/live/7921751389/6097373662/5528.m3u8
-
-#EXTINF:-1 group-title="TW",亚洲美食台
-http://extraott.com:80/7921751389/6097373662/5566 
-#EXTINF:-1 group-title="TW",八大戏剧
-http://extraott.com:80/7921751389/6097373662/5564 
-#EXTINF:-1 group-title="TW",八大第一
-http://extraott.com:80/7921751389/6097373662/5562 
-#EXTINF:-1 group-title="TW",八大综合
-http://extraott.com:80/7921751389/6097373662/5561 
-#EXTINF:-1 group-title="TW",博斯高球1台
-http://extraott.com:80/7921751389/6097373662/5560 
-#EXTINF:-1 group-title="TW",博斯高球2台
-http://extraott.com:80/7921751389/6097373662/5559 
-#EXTINF:-1 group-title="TW",博斯体育1台
-http://extraott.com:80/7921751389/6097373662/5558 
-#EXTINF:-1 group-title="TW",博斯体育2台
-http://extraott.com:80/7921751389/6097373662/5557 
-#EXTINF:-1 group-title="TW",中天娱乐
-http://extraott.com:80/7921751389/6097373662/5554 
-#EXTINF:-1 group-title="TW",中天综合
-http://extraott.com:80/7921751389/6097373662/5552 
-#EXTINF:-1 group-title="TW",华视
-http://extraott.com:80/7921751389/6097373662/5551 
-#EXTINF:-1 group-title="TW",公视1台
-http://extraott.com:80/7921751389/6097373662/5550 
-#EXTINF:-1 group-title="TW",公视2台
-http://extraott.com:80/7921751389/6097373662/5549 
-#EXTINF:-1 group-title="TW",大爱2台
-http://extraott.com:80/7921751389/6097373662/5548 
-#EXTINF:-1 group-title="TW",大爱1台
-http://extraott.com:80/7921751389/6097373662/5547 
-#EXTINF:-1 group-title="TW",爱尔达戏剧
-http://extraott.com:80/7921751389/6097373662/5546 
-#EXTINF:-1 group-title="TW",爱尔达体育2台
-http://extraott.com:80/7921751389/6097373662/5545 
-#EXTINF:-1 group-title="TW",爱尔达体育3台
-http://extraott.com:80/7921751389/6097373662/5544 
-#EXTINF:-1 group-title="TW",爱尔达影剧
-http://extraott.com:80/7921751389/6097373662/5542 
-#EXTINF:-1 group-title="TW",爱尔达综合
-http://extraott.com:80/7921751389/6097373662/5541 
-#EXTINF:-1 group-title="TW",东森财经
-http://extraott.com:80/7921751389/6097373662/5539 
-#EXTINF:-1 group-title="TW",东森戏剧
-http://extraott.com:80/7921751389/6097373662/5538 
-#EXTINF:-1 group-title="TW",东森电影
-http://extraott.com:80/7921751389/6097373662/5537 
-#EXTINF:-1 group-title="TW",东森新闻
-http://extraott.com:80/7921751389/6097373662/5536 
-#EXTINF:-1 group-title="TW",东森洋片
-http://extraott.com:80/7921751389/6097373662/5534 
-#EXTINF:-1 group-title="TW",壹电视旅游台
-http://extraott.com:80/7921751389/6097373662/5533 
-#EXTINF:-1 group-title="TW",壹电视新闻台
-http://extraott.com:80/7921751389/6097373662/5532 
-#EXTINF:-1 group-title="TW",非凡新闻
-http://extraott.com:80/7921751389/6097373662/5531 
-#EXTINF:-1 group-title="TW",民视高清台
-http://extraott.com:80/7921751389/6097373662/5530 
-#EXTINF:-1 group-title="TW",民视新闻台
-http://extraott.com:80/7921751389/6097373662/5529 
-#EXTINF:-1 group-title="TW",民视台湾台
-http://extraott.com:80/7921751389/6097373662/5528 
-#EXTINF:-1 group-title="TW",好电视2台
-http://extraott.com:80/7921751389/6097373662/5527 
-#EXTINF:-1 group-title="TW",好莱坞电影
-http://extraott.com:80/7921751389/6097373662/5526 
-#EXTINF:-1 group-title="TW",亚洲美食台
-http://extraott.com:80/7921751389/6097373662/5525 
-#EXTINF:-1 group-title="TW",JET
-http://extraott.com:80/7921751389/6097373662/5522 
-#EXTINF:-1 group-title="TW",Arirang
-http://extraott.com:80/7921751389/6097373662/5521 
-#EXTINF:-1 group-title="TW",龙华偶像
-http://extraott.com:80/7921751389/6097373662/5518 
-#EXTINF:-1 group-title="TW",龙华洋片
-http://extraott.com:80/7921751389/6097373662/5515 
-#EXTINF:-1 group-title="TW",龙华戏剧
-http://extraott.com:80/7921751389/6097373662/5514 
-#EXTINF:-1 group-title="TW",亚洲美食台
-http://extraott.com:80/7921751389/6097373662/5513 
-#EXTINF:-1 group-title="TW",美亚电影
-http://extraott.com:80/7921751389/6097373662/5511 
-#EXTINF:-1 group-title="TW",东森MOMO
-http://extraott.com:80/7921751389/6097373662/5510 
-#EXTINF:-1 group-title="TW",年代新闻
-http://extraott.com:80/7921751389/6097373662/5509 
-#EXTINF:-1 group-title="TW",年代电视
-http://extraott.com:80/7921751389/6097373662/5508 
-#EXTINF:-1 group-title="TW",三立都会
-http://extraott.com:80/7921751389/6097373662/5506 
-#EXTINF:-1 group-title="TW",三立台湾
-http://extraott.com:80/7921751389/6097373662/5505 
-#EXTINF:-1 group-title="TW",三立戏剧
-http://extraott.com:80/7921751389/6097373662/5504 
-#EXTINF:-1 group-title="TW",三立综合
-http://extraott.com:80/7921751389/6097373662/5503 
-#EXTINF:-1 group-title="TW",台视台湾台
-http://extraott.com:80/7921751389/6097373662/5502 
-#EXTINF:-1 group-title="TW",台视新闻台
-http://extraott.com:80/7921751389/6097373662/5501 
-#EXTINF:-1 group-title="TW",亚洲美食台
-http://extraott.com:80/7921751389/6097373662/5500 
-#EXTINF:-1 group-title="TW",TVBS N
-http://extraott.com:80/7921751389/6097373662/5499 
-#EXTINF:-1 group-title="TW",TVBS G
-http://extraott.com:80/7921751389/6097373662/5498 
-#EXTINF:-1 group-title="TW",TVBS欢乐台
-http://extraott.com:80/7921751389/6097373662/5497 
-#EXTINF:-1 group-title="TW",TVBS
-http://extraott.com:80/7921751389/6097373662/5496 
-#EXTINF:-1 group-title="TW",纬来日本
-http://extraott.com:80/7921751389/6097373662/5495 
-#EXTINF:-1 group-title="TW",纬来精彩
-http://extraott.com:80/7921751389/6097373662/5494
-#EXTINF:-1 group-title="TW",纬来体育
-http://extraott.com:80/7921751389/6097373662/5492 
-#EXTINF:-1 group-title="TW",星卫娱乐
-http://extraott.com:80/7921751389/6097373662/5487 
-#EXTINF:-1 group-title="TW",中视
-http://extraott.com:80/7921751389/6097373662/5486 
-#EXTINF:-1 group-title="TW",中视高清
-http://extraott.com:80/7921751389/6097373662/5485 
-#EXTINF:-1 group-title="TW",纬来综合
-http://extraott.com:80/7921751389/6097373662/5490 
-#EXTINF:-1 group-title="TW",纬来电视
-http://extraott.com:80/7921751389/6097373662/5491 
-#EXTINF:-1 group-title="TW",纬来电影
-http://extraott.com:80/7921751389/6097373662/5493 
-#EXTINF:-1 group-title="TW",漫迪日本
-http://extraott.com:80/7921751389/6097373662/5512 
-#EXTINF:-1 group-title="TW",龙华经典
-http://extraott.com:80/7921751389/6097373662/5517 
-#EXTINF:-1 group-title="TW",靖天国际
-http://extraott.com:80/7921751389/6097373662/5519 
-#EXTINF:-1 group-title="TW",寰宇新闻
-http://extraott.com:80/7921751389/6097373662/5523 
-#EXTINF:-1 group-title="TW",东森超视
-http://extraott.com:80/7921751389/6097373662/5535 
-#EXTINF:-1 group-title="TW",爱尔达体育台
-http://extraott.com:80/7921751389/6097373662/5543 
-#EXTINF:-1 group-title="TW",中天新闻
-http://extraott.com:80/7921751389/6097373662/5553 
-#EXTINF:-1 group-title="TW",博斯网球
-http://extraott.com:80/7921751389/6097373662/5556 
-#EXTINF:-1 group-title="TW",YOYO TV
-http://extraott.com:80/7921751389/6097373662/473533 
-#EXTINF:-1 group-title="TW",ICITI
-http://extraott.com:80/7921751389/6097373662/473534 
-#EXTINF:-1 group-title="TW",SKYLINK
-http://extraott.com:80/7921751389/6097373662/473535 
-#EXTINF:-1 group-title="TW",SKYLINK TELEVISION
-http://extraott.com:80/7921751389/6097373662/473536 
-#EXTINF:-1 group-title="TW",USTV
-http://extraott.com:80/7921751389/6097373662/473537 
-#EXTINF:-1 group-title="TW",ET NEWS
-http://extraott.com:80/7921751389/6097373662/473538 
-#EXTINF:-1 group-title="TW",ET FINANCIAL NEWS
-http://extraott.com:80/7921751389/6097373662/473539 
-#EXTINF:-1 group-title="TW",ET DRAMA
-http://extraott.com:80/7921751389/6097373662/473540 
-#EXTINF:-1 group-title="TW",ET CHINA
-http://extraott.com:80/7921751389/6097373662/473542 
-#EXTINF:-1 group-title="TW",TTV
-http://extraott.com:80/7921751389/6097373662/473543 
-#EXTINF:-1 group-title="TW",SETI
-http://extraott.com:80/7921751389/6097373662/473545 
-#EXTINF:-1 group-title="TW",FORMOSA
-http://extraott.com:80/7921751389/6097373662/473546 
-
 #EXTINF:-1 group-title="国际",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 group-title="国际",环球电视台
@@ -355,9 +167,6 @@ http://extraott.com:80/live/7921751389/6097373662/5492.m3u8
 #https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育频道",劲爆体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-
-
-
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="体育频道",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="体育频道",央视台球
