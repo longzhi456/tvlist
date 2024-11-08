@@ -198,7 +198,7 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="体育频道",纬来体育
-https://ushls.ballbar.net/videolandsport/playlist-15.m3u8a?t=1730517318&token=229da9f6c74999a324777f0bdf49b8c6
+rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育频道",劲爆体育
 
 #EXTINF:-1 tvg-name="晴彩竞技" tvg-logo="https://live.fanmingming.com/tv/晴彩竞技.png" group-title="体育频道",晴彩竞技
