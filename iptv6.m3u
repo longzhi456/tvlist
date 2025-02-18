@@ -1,41 +1,40 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://222.174.239.62:352/tsfile/live/0001_1.m3u8
+http://goo.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+http://goo.bkpcp.top/mg/cctv2
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3
-#http://goo.bkpcp.top/mg/cctv3 
-http://222.174.239.62:352/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://goo.bkpcp.top/mg/cctv3 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://60.214.104.110:352/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://goo.bkpcp.top/mg/cctv4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5
-http://222.174.239.62:352/tsfile/live/0005_1.m3u8
+http://goo.bkpcp.top/mg/cctv5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV-5+
-http://4iptv.dynv6.net:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+http://z.b.bkpcp.top/m.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6
-http://4iptv.dynv6.net:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+http://goo.bkpcp.top/mg/cctv6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7
-http://4iptv.dynv6.net:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+http://goo.bkpcp.top/mg/cctv7
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8
-http://4iptv.dynv6.net:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+http://goo.bkpcp.top/mg/cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://4iptv.dynv6.net:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+http://goo.bkpcp.top/mg/cctv9
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://4iptv.dynv6.net:35455/itv/5000000004000012827.m3u8?cdn=bestzb
+http://goo.bkpcp.top/mg/cctv10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11
-http://4iptv.dynv6.net:35455/itv/5000000011000031106.m3u8?cdn=bestzb
+http://goo.bkpcp.top/mg/cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12
-http://4iptv.dynv6.net:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+http://goo.bkpcp.top/mg/cctv12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://4iptv.dynv6.net:35455/itv/5000000011000031108.m3u8?cdn=bestzb
+http://goo.bkpcp.top/mg/cctv13
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14
-http://4iptv.dynv6.net:35455/itv/5000000004000006673.m3u8?cdn=bestzb
+http://goo.bkpcp.top/mg/cctv14
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://4iptv.dynv6.net:35455/itv/5000000011000031109.m3u8?cdn=bestzb
+http://goo.bkpcp.top/mg/cctv15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://4iptv.dynv6.net:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+http://ott.eonn.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://4iptv.dynv6.net:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+http://goo.bkpcp.top/mg/cctv17
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
 http://202.102.201.244:40022/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",央视台球
